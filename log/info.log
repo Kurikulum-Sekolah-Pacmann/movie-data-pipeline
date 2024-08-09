@@ -1,0 +1,358 @@
+2024-08-08 06:46:15,050 - INFO - ===== Start Extracting ratings data =====
+2024-08-08 06:46:15,542 - INFO - ===== Finish Extracting ratings data =====
+2024-08-08 06:46:15,922 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-08 06:46:16,244 - INFO - ===== Finish Extracting movies_metadata data =====
+2024-08-08 07:12:01,358 - INFO - ===== Start Extracting ratings data =====
+2024-08-08 07:12:01,358 - ERROR - ====== Failed to Extract Data ======
+2024-08-08 07:12:01,358 - ERROR - name 'spark' is not defined
+2024-08-08 07:12:51,467 - INFO - ===== Start Extracting ratings data =====
+2024-08-08 07:12:51,467 - ERROR - ====== Failed to Extract Data ======
+2024-08-08 07:12:51,468 - ERROR - name 'spark' is not defined
+2024-08-08 07:12:51,468 - INFO - Closing down clientserver connection
+2024-08-08 07:14:29,962 - INFO - ===== Start Extracting ratings data =====
+2024-08-08 07:14:38,551 - INFO - ===== Finish Extracting ratings data =====
+2024-08-08 07:14:39,572 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-08 07:14:39,573 - ERROR - ====== Failed to Extract Data ======
+2024-08-08 07:14:39,573 - ERROR - name 'jdbc_url' is not defined
+2024-08-08 07:14:39,575 - INFO - Closing down clientserver connection
+2024-08-08 07:15:34,993 - INFO - ===== Start Extracting ratings data =====
+2024-08-08 07:15:42,324 - INFO - ===== Finish Extracting ratings data =====
+2024-08-08 07:15:42,909 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-08 07:15:43,502 - INFO - ===== Finish Extracting movies_metadata data =====
+2024-08-08 07:15:44,720 - INFO - Closing down clientserver connection
+2024-08-08 08:05:57,367 - INFO - ===== Start Extracting ratings data =====
+2024-08-08 08:05:57,776 - INFO - ===== Finish Extracting ratings data =====
+2024-08-08 08:05:57,838 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-08 08:05:57,951 - INFO - ===== Finish Extracting movies_metadata data =====
+2024-08-08 08:33:05,184 - INFO - ===== Start Extracting ratings data =====
+2024-08-08 08:33:05,787 - INFO - ===== Finish Extracting ratings data =====
+2024-08-08 08:33:05,856 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-08 08:33:05,972 - INFO - ===== Finish Extracting movies_metadata data =====
+2024-08-08 09:39:15,898 - ERROR - No such comm target registered: jupyter.widget.control
+2024-08-08 09:39:15,916 - WARNING - No such comm: 2c5426e3-83a5-414a-b8b1-658e7345c94b
+2024-08-08 13:40:38,226 - ERROR - No such comm target registered: jupyter.widget.control
+2024-08-08 13:40:38,272 - WARNING - No such comm: 83cfa2cf-336e-4e90-9ee5-da801554d438
+2024-08-08 13:41:24,882 - ERROR - No such comm target registered: jupyter.widget.control
+2024-08-08 13:41:24,914 - WARNING - No such comm: 7d6fb82a-a312-4df9-bf7a-6772a1590bfa
+2024-08-08 14:10:27,948 - ERROR - No such comm target registered: jupyter.widget.control
+2024-08-08 14:10:28,007 - WARNING - No such comm: d947023d-54a8-4636-8826-d829251a2ba8
+2024-08-09 16:08:24,694 - INFO - ===== Start Extracting ratings data =====
+2024-08-09 16:08:30,671 - INFO - ===== Finish Extracting ratings data =====
+2024-08-09 16:08:30,675 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-09 16:08:31,022 - INFO - ===== Finish Extracting movies_metadata data =====
+2024-08-09 16:08:31,022 - INFO - ===== Start Transform Movie Data =====
+2024-08-09 16:08:31,022 - INFO - ===== Start Joining user ratings and movies metadata data =====
+2024-08-09 16:08:31,121 - INFO - ===== Finish Joining user ratings and movies metadata data =====
+2024-08-09 16:08:31,122 - INFO - ===== Start Renaming Columns based on the requirements =====
+2024-08-09 16:08:31,144 - INFO - ===== Finish Renaming Columns based on the requirements =====
+2024-08-09 16:08:31,144 - INFO - ===== Start Selecting Data process =====
+2024-08-09 16:08:31,215 - INFO - ===== Finish Selecting Data process =====
+2024-08-09 16:08:31,215 - INFO - ===== Start Casting Data =====
+2024-08-09 16:08:31,486 - INFO - ===== Finish Casting Data =====
+2024-08-09 16:08:31,486 - INFO - ===== Start Filter Data =====
+2024-08-09 16:08:31,595 - INFO - ===== Finish Filter Data =====
+2024-08-09 16:08:31,595 - INFO - ===== Start creating new features by using existing features =====
+2024-08-09 16:08:31,636 - INFO - ===== Finish creating new features by using existing features =====
+2024-08-09 16:08:31,636 - INFO - ===== Finish Transform Movie Data =====
+2024-08-09 16:09:16,732 - INFO - Closing down clientserver connection
+2024-08-09 16:19:21,352 - INFO - ===== Start Extracting ratings data =====
+2024-08-09 16:19:26,863 - INFO - ===== Finish Extracting ratings data =====
+2024-08-09 16:19:26,873 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-09 16:19:27,278 - INFO - ===== Finish Extracting movies_metadata data =====
+2024-08-09 16:19:27,278 - INFO - ===== Start Transform Movie Data =====
+2024-08-09 16:19:27,278 - INFO - ===== Start Joining user ratings and movies metadata data =====
+2024-08-09 16:19:27,400 - INFO - ===== Finish Joining user ratings and movies metadata data =====
+2024-08-09 16:19:27,400 - INFO - ===== Start Renaming Columns based on the requirements =====
+2024-08-09 16:19:27,425 - INFO - ===== Finish Renaming Columns based on the requirements =====
+2024-08-09 16:19:27,425 - INFO - ===== Start Selecting Data process =====
+2024-08-09 16:19:27,533 - INFO - ===== Finish Selecting Data process =====
+2024-08-09 16:19:27,533 - INFO - ===== Start Casting Data =====
+2024-08-09 16:19:27,805 - INFO - ===== Finish Casting Data =====
+2024-08-09 16:19:27,805 - INFO - ===== Start Filter Data =====
+2024-08-09 16:19:27,916 - INFO - ===== Finish Filter Data =====
+2024-08-09 16:19:27,916 - INFO - ===== Start creating new features by using existing features =====
+2024-08-09 16:19:27,940 - INFO - ===== Finish creating new features by using existing features =====
+2024-08-09 16:19:27,940 - INFO - ===== Finish Transform Movie Data =====
+2024-08-09 16:19:27,940 - INFO - ===== Start Load data to the database =====
+2024-08-09 16:19:27,946 - ERROR - ===== Failed Load data to the database =====
+2024-08-09 16:19:27,949 - INFO - Closing down clientserver connection
+2024-08-09 16:19:47,425 - INFO - ===== Start Extracting ratings data =====
+2024-08-09 16:19:57,047 - INFO - ===== Finish Extracting ratings data =====
+2024-08-09 16:19:57,059 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-09 16:19:57,663 - INFO - ===== Finish Extracting movies_metadata data =====
+2024-08-09 16:19:57,664 - INFO - ===== Start Transform Movie Data =====
+2024-08-09 16:19:57,664 - INFO - ===== Start Joining user ratings and movies metadata data =====
+2024-08-09 16:19:57,762 - INFO - ===== Finish Joining user ratings and movies metadata data =====
+2024-08-09 16:19:57,763 - INFO - ===== Start Renaming Columns based on the requirements =====
+2024-08-09 16:19:57,788 - INFO - ===== Finish Renaming Columns based on the requirements =====
+2024-08-09 16:19:57,789 - INFO - ===== Start Selecting Data process =====
+2024-08-09 16:19:57,870 - INFO - ===== Finish Selecting Data process =====
+2024-08-09 16:19:57,870 - INFO - ===== Start Casting Data =====
+2024-08-09 16:19:58,236 - INFO - ===== Finish Casting Data =====
+2024-08-09 16:19:58,236 - INFO - ===== Start Filter Data =====
+2024-08-09 16:19:58,306 - INFO - ===== Finish Filter Data =====
+2024-08-09 16:19:58,306 - INFO - ===== Start creating new features by using existing features =====
+2024-08-09 16:19:58,368 - INFO - ===== Finish creating new features by using existing features =====
+2024-08-09 16:19:58,368 - INFO - ===== Finish Transform Movie Data =====
+2024-08-09 16:19:58,368 - INFO - ===== Start Load data to the database =====
+2024-08-09 16:19:58,388 - ERROR - ===== Failed Load data to the database =====
+2024-08-09 16:19:58,388 - ERROR - name 'url' is not defined
+2024-08-09 16:19:58,389 - INFO - Closing down clientserver connection
+2024-08-09 16:21:12,616 - INFO - ===== Start Extracting ratings data =====
+2024-08-09 16:21:18,007 - INFO - ===== Finish Extracting ratings data =====
+2024-08-09 16:21:18,011 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-09 16:21:18,501 - INFO - ===== Finish Extracting movies_metadata data =====
+2024-08-09 16:21:18,501 - INFO - ===== Start Transform Movie Data =====
+2024-08-09 16:21:18,501 - INFO - ===== Start Joining user ratings and movies metadata data =====
+2024-08-09 16:21:18,561 - INFO - ===== Finish Joining user ratings and movies metadata data =====
+2024-08-09 16:21:18,561 - INFO - ===== Start Renaming Columns based on the requirements =====
+2024-08-09 16:21:18,583 - INFO - ===== Finish Renaming Columns based on the requirements =====
+2024-08-09 16:21:18,583 - INFO - ===== Start Selecting Data process =====
+2024-08-09 16:21:18,654 - INFO - ===== Finish Selecting Data process =====
+2024-08-09 16:21:18,654 - INFO - ===== Start Casting Data =====
+2024-08-09 16:21:18,852 - INFO - ===== Finish Casting Data =====
+2024-08-09 16:21:18,852 - INFO - ===== Start Filter Data =====
+2024-08-09 16:21:18,902 - INFO - ===== Finish Filter Data =====
+2024-08-09 16:21:18,902 - INFO - ===== Start creating new features by using existing features =====
+2024-08-09 16:21:18,925 - INFO - ===== Finish creating new features by using existing features =====
+2024-08-09 16:21:18,925 - INFO - ===== Finish Transform Movie Data =====
+2024-08-09 16:21:18,925 - INFO - ===== Start Load data to the database =====
+2024-08-09 16:21:18,934 - ERROR - ===== Failed Load data to the database =====
+2024-08-09 16:21:18,934 - ERROR - name 'properties' is not defined
+2024-08-09 16:21:18,935 - INFO - Closing down clientserver connection
+2024-08-09 16:21:50,001 - INFO - ===== Start Extracting ratings data =====
+2024-08-09 16:21:55,985 - INFO - ===== Finish Extracting ratings data =====
+2024-08-09 16:21:55,989 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-09 16:21:56,724 - INFO - ===== Finish Extracting movies_metadata data =====
+2024-08-09 16:21:56,724 - INFO - ===== Start Transform Movie Data =====
+2024-08-09 16:21:56,724 - INFO - ===== Start Joining user ratings and movies metadata data =====
+2024-08-09 16:21:56,853 - INFO - ===== Finish Joining user ratings and movies metadata data =====
+2024-08-09 16:21:56,853 - INFO - ===== Start Renaming Columns based on the requirements =====
+2024-08-09 16:21:56,874 - INFO - ===== Finish Renaming Columns based on the requirements =====
+2024-08-09 16:21:56,874 - INFO - ===== Start Selecting Data process =====
+2024-08-09 16:21:56,958 - INFO - ===== Finish Selecting Data process =====
+2024-08-09 16:21:56,959 - INFO - ===== Start Casting Data =====
+2024-08-09 16:21:57,178 - INFO - ===== Finish Casting Data =====
+2024-08-09 16:21:57,178 - INFO - ===== Start Filter Data =====
+2024-08-09 16:21:57,261 - INFO - ===== Finish Filter Data =====
+2024-08-09 16:21:57,261 - INFO - ===== Start creating new features by using existing features =====
+2024-08-09 16:21:57,296 - INFO - ===== Finish creating new features by using existing features =====
+2024-08-09 16:21:57,296 - INFO - ===== Finish Transform Movie Data =====
+2024-08-09 16:21:57,296 - INFO - ===== Start Load data to the database =====
+2024-08-09 16:22:34,484 - ERROR - ===== Failed Load data to the database =====
+2024-08-09 16:22:34,484 - ERROR - An error occurred while calling o102.jdbc.
+: org.apache.spark.SparkException: Job aborted due to stage failure: Task 0 in stage 2.0 failed 1 times, most recent failure: Lost task 0.0 in stage 2.0 (TID 7) (pyspark executor driver): org.postgresql.util.PSQLException: ERROR: column "id" does not exist
+  Position: 34
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2713)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2401)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:368)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:498)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:415)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:190)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:134)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCRDD.compute(JDBCRDD.scala:275)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:364)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:328)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:52)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:364)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:328)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:52)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:364)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:328)
+	at org.apache.spark.shuffle.ShuffleWriteProcessor.write(ShuffleWriteProcessor.scala:59)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:104)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:54)
+	at org.apache.spark.TaskContext.runTaskWithListeners(TaskContext.scala:161)
+	at org.apache.spark.scheduler.Task.run(Task.scala:141)
+	at org.apache.spark.executor.Executor$TaskRunner.$anonfun$run$4(Executor.scala:620)
+	at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally(SparkErrorUtils.scala:64)
+	at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally$(SparkErrorUtils.scala:61)
+	at org.apache.spark.util.Utils$.tryWithSafeFinally(Utils.scala:94)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:623)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+Driver stacktrace:
+	at org.apache.spark.scheduler.DAGScheduler.failJobAndIndependentStages(DAGScheduler.scala:2844)
+	at org.apache.spark.scheduler.DAGScheduler.$anonfun$abortStage$2(DAGScheduler.scala:2780)
+	at org.apache.spark.scheduler.DAGScheduler.$anonfun$abortStage$2$adapted(DAGScheduler.scala:2779)
+	at scala.collection.mutable.ResizableArray.foreach(ResizableArray.scala:62)
+	at scala.collection.mutable.ResizableArray.foreach$(ResizableArray.scala:55)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:49)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:2779)
+	at org.apache.spark.scheduler.DAGScheduler.$anonfun$handleTaskSetFailed$1(DAGScheduler.scala:1242)
+	at org.apache.spark.scheduler.DAGScheduler.$anonfun$handleTaskSetFailed$1$adapted(DAGScheduler.scala:1242)
+	at scala.Option.foreach(Option.scala:407)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:1242)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:3048)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2982)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2971)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:49)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "id" does not exist
+  Position: 34
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2713)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2401)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:368)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:498)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:415)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:190)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:134)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCRDD.compute(JDBCRDD.scala:275)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:364)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:328)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:52)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:364)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:328)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:52)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:364)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:328)
+	at org.apache.spark.shuffle.ShuffleWriteProcessor.write(ShuffleWriteProcessor.scala:59)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:104)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:54)
+	at org.apache.spark.TaskContext.runTaskWithListeners(TaskContext.scala:161)
+	at org.apache.spark.scheduler.Task.run(Task.scala:141)
+	at org.apache.spark.executor.Executor$TaskRunner.$anonfun$run$4(Executor.scala:620)
+	at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally(SparkErrorUtils.scala:64)
+	at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally$(SparkErrorUtils.scala:61)
+	at org.apache.spark.util.Utils$.tryWithSafeFinally(Utils.scala:94)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:623)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024-08-09 16:22:34,499 - INFO - Closing down clientserver connection
+2024-08-09 16:28:01,835 - INFO - ===== Start Extracting ratings data =====
+2024-08-09 16:28:07,970 - INFO - ===== Finish Extracting ratings data =====
+2024-08-09 16:28:07,975 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-09 16:28:08,241 - INFO - ===== Finish Extracting movies_metadata data =====
+2024-08-09 16:28:08,241 - INFO - ===== Start Transform Movie Data =====
+2024-08-09 16:28:08,241 - INFO - ===== Start Joining user ratings and movies metadata data =====
+2024-08-09 16:28:08,266 - ERROR - ===== Failed Joining data =====
+2024-08-09 16:28:08,266 - ERROR - 'DataFrame' object has no attribute 'id'
+2024-08-09 16:28:08,267 - ERROR - ===== Failed Transform Movie Data =====
+2024-08-09 16:28:08,267 - ERROR - 'DataFrame' object has no attribute 'id'
+2024-08-09 16:28:08,269 - INFO - Closing down clientserver connection
+2024-08-09 16:37:45,013 - INFO - ===== Start Extracting ratings data =====
+2024-08-09 16:37:53,092 - INFO - ===== Finish Extracting ratings data =====
+2024-08-09 16:37:53,096 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-09 16:37:53,481 - INFO - ===== Finish Extracting movies_metadata data =====
+2024-08-09 16:37:53,481 - INFO - ===== Start Transform Movie Data =====
+2024-08-09 16:37:53,482 - INFO - ===== Start Joining user ratings and movies metadata data =====
+2024-08-09 16:37:53,556 - INFO - ===== Finish Joining user ratings and movies metadata data =====
+2024-08-09 16:37:53,556 - INFO - ===== Start Renaming Columns based on the requirements =====
+2024-08-09 16:37:53,582 - INFO - ===== Finish Renaming Columns based on the requirements =====
+2024-08-09 16:37:53,582 - INFO - ===== Start Selecting Data process =====
+2024-08-09 16:37:53,671 - INFO - ===== Finish Selecting Data process =====
+2024-08-09 16:37:53,671 - INFO - ===== Start Casting Data =====
+2024-08-09 16:37:53,990 - INFO - ===== Finish Casting Data =====
+2024-08-09 16:37:53,990 - INFO - ===== Start Filter Data =====
+2024-08-09 16:37:54,042 - INFO - ===== Finish Filter Data =====
+2024-08-09 16:37:54,042 - INFO - ===== Start creating new features by using existing features =====
+2024-08-09 16:37:54,064 - INFO - ===== Finish creating new features by using existing features =====
+2024-08-09 16:37:54,064 - INFO - ===== Finish Transform Movie Data =====
+2024-08-09 16:39:23,459 - INFO - ===== Start Load data to the database =====
+2024-08-09 16:40:19,663 - ERROR - ===== Failed Load data to the database =====
+2024-08-09 16:40:19,674 - ERROR - An error occurred while calling o102.jdbc.
+: org.apache.spark.SparkException: Job aborted due to stage failure: Task 0 in stage 7.0 failed 1 times, most recent failure: Lost task 0.0 in stage 7.0 (TID 15) (pyspark executor driver): org.postgresql.util.PSQLException: ERROR: column "id" does not exist
+  Position: 34
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2713)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2401)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:368)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:498)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:415)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:190)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:134)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCRDD.compute(JDBCRDD.scala:275)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:364)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:328)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:52)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:364)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:328)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:52)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:364)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:328)
+	at org.apache.spark.shuffle.ShuffleWriteProcessor.write(ShuffleWriteProcessor.scala:59)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:104)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:54)
+	at org.apache.spark.TaskContext.runTaskWithListeners(TaskContext.scala:161)
+	at org.apache.spark.scheduler.Task.run(Task.scala:141)
+	at org.apache.spark.executor.Executor$TaskRunner.$anonfun$run$4(Executor.scala:620)
+	at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally(SparkErrorUtils.scala:64)
+	at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally$(SparkErrorUtils.scala:61)
+	at org.apache.spark.util.Utils$.tryWithSafeFinally(Utils.scala:94)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:623)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+Driver stacktrace:
+	at org.apache.spark.scheduler.DAGScheduler.failJobAndIndependentStages(DAGScheduler.scala:2844)
+	at org.apache.spark.scheduler.DAGScheduler.$anonfun$abortStage$2(DAGScheduler.scala:2780)
+	at org.apache.spark.scheduler.DAGScheduler.$anonfun$abortStage$2$adapted(DAGScheduler.scala:2779)
+	at scala.collection.mutable.ResizableArray.foreach(ResizableArray.scala:62)
+	at scala.collection.mutable.ResizableArray.foreach$(ResizableArray.scala:55)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:49)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:2779)
+	at org.apache.spark.scheduler.DAGScheduler.$anonfun$handleTaskSetFailed$1(DAGScheduler.scala:1242)
+	at org.apache.spark.scheduler.DAGScheduler.$anonfun$handleTaskSetFailed$1$adapted(DAGScheduler.scala:1242)
+	at scala.Option.foreach(Option.scala:407)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:1242)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:3048)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2982)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2971)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:49)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "id" does not exist
+  Position: 34
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2713)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2401)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:368)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:498)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:415)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:190)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:134)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCRDD.compute(JDBCRDD.scala:275)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:364)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:328)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:52)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:364)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:328)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:52)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:364)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:328)
+	at org.apache.spark.shuffle.ShuffleWriteProcessor.write(ShuffleWriteProcessor.scala:59)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:104)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:54)
+	at org.apache.spark.TaskContext.runTaskWithListeners(TaskContext.scala:161)
+	at org.apache.spark.scheduler.Task.run(Task.scala:141)
+	at org.apache.spark.executor.Executor$TaskRunner.$anonfun$run$4(Executor.scala:620)
+	at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally(SparkErrorUtils.scala:64)
+	at org.apache.spark.util.SparkErrorUtils.tryWithSafeFinally$(SparkErrorUtils.scala:61)
+	at org.apache.spark.util.Utils$.tryWithSafeFinally(Utils.scala:94)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:623)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024-08-09 16:40:19,681 - INFO - Closing down clientserver connection
+2024-08-09 16:43:42,747 - INFO - ===== Start Extracting ratings data =====
+2024-08-09 16:43:55,319 - INFO - ===== Finish Extracting ratings data =====
+2024-08-09 16:43:55,342 - INFO - ===== Start Extracting movies_metadata data =====
+2024-08-09 16:43:56,149 - INFO - ===== Finish Extracting movies_metadata data =====
+2024-08-09 16:43:56,150 - INFO - ===== Start Transform Movie Data =====
+2024-08-09 16:43:56,150 - INFO - ===== Start Joining user ratings and movies metadata data =====
+2024-08-09 16:43:56,255 - INFO - ===== Finish Joining user ratings and movies metadata data =====
+2024-08-09 16:43:56,255 - INFO - ===== Start Renaming Columns based on the requirements =====
+2024-08-09 16:43:56,301 - INFO - ===== Finish Renaming Columns based on the requirements =====
+2024-08-09 16:43:56,302 - INFO - ===== Start Selecting Data process =====
+2024-08-09 16:43:56,474 - INFO - ===== Finish Selecting Data process =====
+2024-08-09 16:43:56,474 - INFO - ===== Start Casting Data =====
+2024-08-09 16:43:56,882 - INFO - ===== Finish Casting Data =====
+2024-08-09 16:43:56,883 - INFO - ===== Start Filter Data =====
+2024-08-09 16:43:57,051 - INFO - ===== Finish Filter Data =====
+2024-08-09 16:43:57,051 - INFO - ===== Start creating new features by using existing features =====
+2024-08-09 16:43:57,079 - INFO - ===== Finish creating new features by using existing features =====
+2024-08-09 16:43:57,079 - INFO - ===== Finish Transform Movie Data =====
+2024-08-09 16:43:57,079 - INFO - ===== Start Load data to the database =====
+2024-08-09 16:45:32,059 - INFO - ===== Finish Load data to the database =====
+2024-08-09 16:45:32,062 - INFO - Closing down clientserver connection
